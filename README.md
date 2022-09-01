@@ -6,7 +6,7 @@
 
 :mortar_board::computer: I study Computer Engeneering at Instituto Federal de Ciência, Educação e Tecnologia do Ceará (IFCE).
 
-:wrench::microscope: Working at Laboratório de Inteligência Artificial (LiA) mainly with deep learning applied to Image Classification and Object Detection.
+:wrench::microscope: Freelancing on computacional vision, machine learning, python and backend projects.
 
 :hammer::scroll: I can code in <i>C/C++</i> and <i>Python</i>, <i>MySQL</i>, Web Development (<i>HTML5, CSS3, JavaScript</i>), and i have basic knowledge in <i>Java</i>, <i>Unix/Linux shell scripting</i>, and <i>PHP</i>.
 
