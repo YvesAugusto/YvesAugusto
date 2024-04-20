@@ -4,11 +4,9 @@
 
 ## Personal Info:
 
-:mortar_board::computer: I study Computer Engeneering at Instituto Federal de Ciência, Educação e Tecnologia do Ceará (IFCE).
+:mortar_board::computer: I am Computer Engineer at Instituto Federal de Ciência, Educação e Tecnologia do Ceará (IFCE).
 
-:wrench::microscope: Freelancing on computacional vision, machine learning, python and backend(flask, django, fastapi, etc.) projects.
-
-:hammer::scroll: I can code in <i>C/C++</i> and <i>Python</i>, <i>MySQL</i>, and <i>Unix/Linux shell scripting</i>.
+:wrench::microscope: Actually I work at Petrobras as a Data Scientist.
 
 ## Social Media
 
